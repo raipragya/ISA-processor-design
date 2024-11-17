@@ -1,0 +1,8 @@
+LOADM[X]7  STORM[X]3  
+LOADM[X]0  ADDM[X]6  
+STORM[X]2  GRETM[X]2  
+LESSM[X]2  STORM[X]3  
+LOADM[X]2  STORM[X]0  
+JUMPM[X]421          
+HALT                 
+
